@@ -6,7 +6,7 @@
   "chunk_end": "2026-11-30",
   "parquet_file": "OANDA_EURPLN_EURPLN_1_2026-11-01_to_2026-11-30.parquet",
   "data_file": "OANDA_EURPLN_EURPLN_1_2026-11-01_to_2026-11-30.parquet",
-  "row_count": 18654,
+  "row_count": 20055,
   "first_candle": {
     "time": 1793570640,
     "Time": "2026-11-01T22:04:00.000000000Z",
@@ -17,16 +17,16 @@
     "volume": 1
   },
   "last_candle": {
-    "time": 1795071720,
-    "Time": "2026-11-19T07:02:00.000000000Z",
-    "open": 4.41324,
-    "high": 4.41326,
-    "low": 4.41267,
-    "close": 4.41282,
-    "volume": 35
+    "time": 1795157520,
+    "Time": "2026-11-20T06:52:00.000000000Z",
+    "open": 4.4395,
+    "high": 4.43955,
+    "low": 4.43945,
+    "close": 4.4395,
+    "volume": 18
   },
   "csv_file": "OANDA_EURPLN_EURPLN_1_2026-11-01_to_2026-11-30.parquet",
-  "csv_row_count": 18654,
+  "csv_row_count": 20055,
   "csv_first_candle": {
     "time": 1793570640,
     "Time": "2026-11-01T22:04:00.000000000Z",
@@ -37,17 +37,17 @@
     "volume": 1
   },
   "csv_last_candle": {
-    "time": 1795071720,
-    "Time": "2026-11-19T07:02:00.000000000Z",
-    "open": 4.41324,
-    "high": 4.41326,
-    "low": 4.41267,
-    "close": 4.41282,
-    "volume": 35
+    "time": 1795157520,
+    "Time": "2026-11-20T06:52:00.000000000Z",
+    "open": 4.4395,
+    "high": 4.43955,
+    "low": 4.43945,
+    "close": 4.4395,
+    "volume": 18
   },
   "status": "VERIFIED_PARTIAL",
-  "verified_at": "2026-11-19T07:03:43.000000000Z",
-  "generated_at": "2026-11-19T07:03:43.000000000Z",
+  "verified_at": "2026-11-20T06:53:52.000000000Z",
+  "generated_at": "2026-11-20T06:53:52.000000000Z",
   "download_request": {
     "total_api_blocks_in_run": 1,
     "chunk_api_blocks": 1,
@@ -55,8 +55,8 @@
     "permanent_error_details": [],
     "all_block_outcomes": [
       {
-        "from": "2026-11-18T06:57:00Z",
-        "to": "2026-11-19T07:03:00Z",
+        "from": "2026-11-19T06:57:00Z",
+        "to": "2026-11-20T06:53:00Z",
         "code": 200,
         "msg": "OK"
       }
